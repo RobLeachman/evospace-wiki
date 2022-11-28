@@ -1,0 +1,22 @@
+{
+    "PlayerStartInventory": {
+        "Items": [
+            {
+                "Count": 1,
+                "Name": "CopperMultitoolStaticItem"
+            },
+            {
+                "Count": 99,
+                "Name": "StoneSurfaceStaticItem"
+            },
+            {
+                "Count": 15,
+                "Name": "LogStaticItem"
+            },
+            {
+                "Count": 99,
+                "Name": "BasicPlatformStaticItem"
+            }
+        ]
+    }
+}

@@ -1,0 +1,4580 @@
+{
+    "Objects": [
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Cactus",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Cactus",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "CactusBigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "CactusStaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "BigStaticProp",
+            "Item": "CactusStaticItem",
+            "Mesh": "Props/Cactus/Cactus",
+            "Name": "CactusBigStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                2,
+                2,
+                2
+            ],
+            "ScaleMin": [
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Cactus",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Cactus",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "Cactus1BigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "Cactus1StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "BigStaticProp",
+            "Item": "CactusStaticItem",
+            "Mesh": "Props/Cactus/Cactus1",
+            "Name": "Cactus1BigStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                2,
+                2,
+                2
+            ],
+            "ScaleMin": [
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Dandaleon",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Dandaleon",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "DandaleonSmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "DandaleonStaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "DandaleonStaticItem",
+            "Mesh": "Props/Dandaleon/Dandaleon",
+            "Name": "DandaleonSmallStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Dandaleon",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Dandaleon",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "Dandaleon1SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "Dandaleon1StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "DandaleonStaticItem",
+            "Mesh": "Props/Dandaleon/Dandaleon1",
+            "Name": "Dandaleon1SmallStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Dandaleon",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Dandaleon",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "Dandaleon2SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "Dandaleon2StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "DandaleonStaticItem",
+            "Mesh": "Props/Dandaleon/Dandaleon2",
+            "Name": "Dandaleon2SmallStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Fern",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Fern",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "FernSmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "FernStaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "FernStaticItem",
+            "Mesh": "Props/Fern/Fern",
+            "Name": "FernSmallStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                6,
+                6,
+                6
+            ],
+            "ScaleMin": [
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Fern",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Fern",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "Fern1SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "Fern1StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "FernStaticItem",
+            "Mesh": "Props/Fern/Fern1",
+            "Name": "Fern1SmallStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                6,
+                6,
+                6
+            ],
+            "ScaleMin": [
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Fern",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Fern",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "Fern2SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "Fern2StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "FernStaticItem",
+            "Mesh": "Props/Fern/Fern2",
+            "Name": "Fern2SmallStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                6,
+                6,
+                6
+            ],
+            "ScaleMin": [
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_LongGrass",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "LongGrass",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "LongGrassSmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "LongGrassStaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "LongGrassStaticItem",
+            "Mesh": "Props/LongGrass/LongGrass",
+            "Name": "LongGrassSmallStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaPlant",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaPlant",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaPlantSmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaPlantStaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaPlantStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaPlant/SeaPlant",
+            "Name": "SeaPlantSmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaPlant",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaPlant",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaPlant1SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaPlant1StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaPlantStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaPlant/SeaPlant1",
+            "Name": "SeaPlant1SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaPlant",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaPlant",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaPlant2SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaPlant2StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaPlantStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaPlant/SeaPlant2",
+            "Name": "SeaPlant2SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaPlant",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaPlant",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaPlant3SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaPlant3StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaPlantStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaPlant/SeaPlant3",
+            "Name": "SeaPlant3SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaPlant",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaPlant",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaPlant4SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaPlant4StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaPlantStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaPlant/SeaPlant4",
+            "Name": "SeaPlant4SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaPlant",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaPlant",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaPlant5SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaPlant5StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaPlantStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaPlant/SeaPlant5",
+            "Name": "SeaPlant5SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaPlant",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaPlant",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaPlant6SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaPlant6StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaPlantStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaPlant/SeaPlant6",
+            "Name": "SeaPlant6SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaPlant",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaPlant",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaPlant7SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaPlant7StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaPlantStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaPlant/SeaPlant7",
+            "Name": "SeaPlant7SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaPlant",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaPlant",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaPlant8SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaPlant8StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaPlantStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaPlant/SeaPlant8",
+            "Name": "SeaPlant8SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaPlant",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaPlant",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaPlant9SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaPlant9StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaPlantStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaPlant/SeaPlant9",
+            "Name": "SeaPlant9SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaPlant",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaPlant",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaPlant10SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaPlant10StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaPlantStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaPlant/SeaPlant10",
+            "Name": "SeaPlant10SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaPlant",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaPlant",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaPlant11SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaPlant11StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaPlantStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaPlant/SeaPlant11",
+            "Name": "SeaPlant11SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaPlant",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaPlant",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaPlant12SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaPlant12StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaPlantStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaPlant/SeaPlant12",
+            "Name": "SeaPlant12SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaPlant",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaPlant",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaPlant13SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaPlant13StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaPlantStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaPlant/SeaPlant13",
+            "Name": "SeaPlant13SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaPlant",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaPlant",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaPlant14SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaPlant14StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaPlantStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaPlant/SeaPlant14",
+            "Name": "SeaPlant14SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaPlant",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaPlant",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaPlant15SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaPlant15StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaPlantStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaPlant/SeaPlant15",
+            "Name": "SeaPlant15SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaPlant",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaPlant",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaPlant16SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaPlant16StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaPlantStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaPlant/SeaPlant16",
+            "Name": "SeaPlant16SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaPlant",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaPlant",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaPlant17SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaPlant17StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaPlantStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaPlant/SeaPlant17",
+            "Name": "SeaPlant17SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaPlant",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaPlant",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaPlant18SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaPlant18StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaPlantStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaPlant/SeaPlant18",
+            "Name": "SeaPlant18SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaPlant",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaPlant",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaPlant19SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaPlant19StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaPlantStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaPlant/SeaPlant19",
+            "Name": "SeaPlant19SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaPlant",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaPlant",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaPlant20SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaPlant20StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaPlantStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaPlant/SeaPlant20",
+            "Name": "SeaPlant20SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaPlant",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaPlant",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaPlant21SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaPlant21StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaPlantStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaPlant/SeaPlant21",
+            "Name": "SeaPlant21SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaGrass",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaGrass",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaGrassSmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaGrassStaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaGrassStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaGrass/SeaGrass",
+            "Name": "SeaGrassSmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaGrass",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaGrass",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaGrass1SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaGrass1StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaGrassStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaGrass/SeaGrass1",
+            "Name": "SeaGrass1SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaGrass",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaGrass",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaGrass2SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaGrass2StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaGrassStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaGrass/SeaGrass2",
+            "Name": "SeaGrass2SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaGrass",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaGrass",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaGrass3SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaGrass3StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaGrassStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaGrass/SeaGrass3",
+            "Name": "SeaGrass3SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SeaGrass",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SeaGrass",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SeaGrass4SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SeaGrass4StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SeaGrassStaticItem",
+            "MaximumHeight": -1,
+            "Mesh": "Props/SeaGrass/SeaGrass4",
+            "Name": "SeaGrass4SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_TallGrass",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "TallGrass",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "TallGrassSmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "TallGrassStaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "TallGrassStaticItem",
+            "Mesh": "Props/TallGrass/TallGrass",
+            "Name": "TallGrassSmallStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                3,
+                3,
+                3
+            ],
+            "ScaleMin": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Broadleaf",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Broadleaf",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "BroadleafBigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "BroadleafStaticItem"
+        },
+        {
+            "Class": "BigStaticProp",
+            "Item": "BroadleafStaticItem",
+            "Mesh": "Props/Broadleaf/Broadleaf",
+            "Name": "BroadleafBigStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                3,
+                3,
+                3
+            ],
+            "ScaleMin": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Broadleaf",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Broadleaf",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "Broadleaf1BigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "Broadleaf1StaticItem"
+        },
+        {
+            "Class": "BigStaticProp",
+            "Item": "BroadleafStaticItem",
+            "Mesh": "Props/Broadleaf/Broadleaf1",
+            "Name": "Broadleaf1BigStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                3,
+                3,
+                3
+            ],
+            "ScaleMin": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Broadleaf",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Broadleaf",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "Broadleaf2BigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "Broadleaf2StaticItem"
+        },
+        {
+            "Class": "BigStaticProp",
+            "Item": "BroadleafStaticItem",
+            "Mesh": "Props/Broadleaf/Broadleaf2",
+            "Name": "Broadleaf2BigStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                3,
+                3,
+                3
+            ],
+            "ScaleMin": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Noleafes",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Noleafes",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "NoleafesBigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "NoleafesStaticItem"
+        },
+        {
+            "Class": "BigStaticProp",
+            "Item": "NoleafesStaticItem",
+            "Mesh": "Props/Noleafes/Noleafes",
+            "Name": "NoleafesBigStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                3,
+                3,
+                3
+            ],
+            "ScaleMin": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Shrub",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Shrub",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "ShrubBigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "ShrubStaticItem"
+        },
+        {
+            "Class": "BigStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "ShrubStaticItem",
+            "Mesh": "Props/Shrub/Shrub",
+            "Name": "ShrubBigStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                2.5,
+                2.5,
+                2.5
+            ],
+            "ScaleMin": [
+                1.5,
+                1.5,
+                1.5
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Rock",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Rock",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "RockBigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "RockStaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "BigStaticProp",
+            "Item": "RockStaticItem",
+            "Mesh": "Props/Rock/Rock",
+            "Name": "RockBigStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                3,
+                3,
+                3
+            ],
+            "ScaleMin": [
+                0.6,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Rock",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Rock",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "Rock1BigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "Rock1StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "BigStaticProp",
+            "Item": "RockStaticItem",
+            "Mesh": "Props/Rock/Rock1",
+            "Name": "Rock1BigStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                3,
+                3,
+                3
+            ],
+            "ScaleMin": [
+                0.6,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Pine",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Pine",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "PineBigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "PineStaticItem"
+        },
+        {
+            "Class": "BigStaticProp",
+            "Item": "PineStaticItem",
+            "Mesh": "Props/Pine/Pine",
+            "Name": "PineBigStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                1.4,
+                1.4,
+                1.4
+            ],
+            "ScaleMin": [
+                0.6,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Pine",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Pine",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "Pine1BigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "Pine1StaticItem"
+        },
+        {
+            "Class": "BigStaticProp",
+            "Item": "PineStaticItem",
+            "Mesh": "Props/Pine/Pine1",
+            "Name": "Pine1BigStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                1.4,
+                1.4,
+                1.4
+            ],
+            "ScaleMin": [
+                0.6,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Pine",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Pine",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "Pine2BigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "Pine2StaticItem"
+        },
+        {
+            "Class": "BigStaticProp",
+            "Item": "PineStaticItem",
+            "Mesh": "Props/Pine/Pine2",
+            "Name": "Pine2BigStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                1.4,
+                1.4,
+                1.4
+            ],
+            "ScaleMin": [
+                0.6,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SnowyPine",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SnowyPine",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SnowyPineBigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SnowyPineStaticItem"
+        },
+        {
+            "Class": "BigStaticProp",
+            "Item": "SnowyPineStaticItem",
+            "Mesh": "Props/SnowyPine/SnowyPine",
+            "Name": "SnowyPineBigStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                1.2,
+                1.2,
+                1.2
+            ],
+            "ScaleMin": [
+                0.6,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SnowyPine",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SnowyPine",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SnowyPine1BigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SnowyPine1StaticItem"
+        },
+        {
+            "Class": "BigStaticProp",
+            "Item": "SnowyPineStaticItem",
+            "Mesh": "Props/SnowyPine/SnowyPine1",
+            "Name": "SnowyPine1BigStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                1.2,
+                1.2,
+                1.2
+            ],
+            "ScaleMin": [
+                0.6,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SnowyPine",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SnowyPine",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SnowyPine2BigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SnowyPine2StaticItem"
+        },
+        {
+            "Class": "BigStaticProp",
+            "Item": "SnowyPineStaticItem",
+            "Mesh": "Props/SnowyPine/SnowyPine2",
+            "Name": "SnowyPine2BigStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                1.2,
+                1.2,
+                1.2
+            ],
+            "ScaleMin": [
+                0.6,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Birch",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Birch",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "BirchBigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "BirchStaticItem"
+        },
+        {
+            "Class": "BigStaticProp",
+            "Item": "BirchStaticItem",
+            "Mesh": "Props/Birch/Birch",
+            "Name": "BirchBigStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                1.4,
+                1.4,
+                1.4
+            ],
+            "ScaleMin": [
+                0.6,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Birch",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Birch",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "Birch1BigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "Birch1StaticItem"
+        },
+        {
+            "Class": "BigStaticProp",
+            "Item": "BirchStaticItem",
+            "Mesh": "Props/Birch/Birch1",
+            "Name": "Birch1BigStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                1.4,
+                1.4,
+                1.4
+            ],
+            "ScaleMin": [
+                0.6,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Palm",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Palm",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "PalmBigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "PalmStaticItem"
+        },
+        {
+            "Class": "BigStaticProp",
+            "Item": "PalmStaticItem",
+            "Mesh": "Props/Palm/Palm",
+            "Name": "PalmBigStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                1.4,
+                1.4,
+                1.4
+            ],
+            "ScaleMin": [
+                0.6,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Palm",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Palm",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "Palm1BigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "Palm1StaticItem"
+        },
+        {
+            "Class": "BigStaticProp",
+            "Item": "PalmStaticItem",
+            "Mesh": "Props/Palm/Palm1",
+            "Name": "Palm1BigStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                1.4,
+                1.4,
+                1.4
+            ],
+            "ScaleMin": [
+                0.6,
+                0.6,
+                0.6
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Rogoz",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Rogoz",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "RogozSmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "RogozStaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 7000,
+            "CullEnd": 8000,
+            "Item": "RogozStaticItem",
+            "Mesh": "Props/Rogoz/Rogoz",
+            "Name": "RogozSmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                3,
+                3,
+                3
+            ],
+            "ScaleMin": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Rogoz",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Rogoz",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "Rogoz1SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "Rogoz1StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 7000,
+            "CullEnd": 8000,
+            "Item": "RogozStaticItem",
+            "Mesh": "Props/Rogoz/Rogoz1",
+            "Name": "Rogoz1SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                3,
+                3,
+                3
+            ],
+            "ScaleMin": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Rogoz",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Rogoz",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "Rogoz2SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "Rogoz2StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 7000,
+            "CullEnd": 8000,
+            "Item": "RogozStaticItem",
+            "Mesh": "Props/Rogoz/Rogoz2",
+            "Name": "Rogoz2SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                3,
+                3,
+                3
+            ],
+            "ScaleMin": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Rogoz",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Rogoz",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "Rogoz3SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "Rogoz3StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 7000,
+            "CullEnd": 8000,
+            "Item": "RogozStaticItem",
+            "Mesh": "Props/Rogoz/Rogoz3",
+            "Name": "Rogoz3SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                3,
+                3,
+                3
+            ],
+            "ScaleMin": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Rogoz",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Rogoz",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "Rogoz4SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "Rogoz4StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 7000,
+            "CullEnd": 8000,
+            "Item": "RogozStaticItem",
+            "Mesh": "Props/Rogoz/Rogoz4",
+            "Name": "Rogoz4SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                3,
+                3,
+                3
+            ],
+            "ScaleMin": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Lily",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Lily",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "LilySmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "LilyStaticItem"
+        },
+        {
+            "AdditiveElevation": 70,
+            "Class": "SmallStaticProp",
+            "CullBegin": 7000,
+            "CullEnd": 8000,
+            "Floating": true,
+            "Item": "LilyStaticItem",
+            "Mesh": "Props/Lily/Lily",
+            "Name": "LilySmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                3,
+                3,
+                3
+            ],
+            "ScaleMin": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_LilyFlower",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "LilyFlower",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "LilyFlowerSmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "LilyFlowerStaticItem"
+        },
+        {
+            "AdditiveElevation": 70,
+            "Class": "SmallStaticProp",
+            "CullBegin": 7000,
+            "CullEnd": 8000,
+            "Floating": true,
+            "Item": "LilyFlowerStaticItem",
+            "Mesh": "Props/LilyFlower/LilyFlower",
+            "Name": "LilyFlowerSmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                3,
+                3,
+                3
+            ],
+            "ScaleMin": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_LilyFlower",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "LilyFlower",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "LilyFlower1SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "LilyFlower1StaticItem"
+        },
+        {
+            "AdditiveElevation": 70,
+            "Class": "SmallStaticProp",
+            "CullBegin": 7000,
+            "CullEnd": 8000,
+            "Floating": true,
+            "Item": "LilyFlowerStaticItem",
+            "Mesh": "Props/LilyFlower/LilyFlower1",
+            "Name": "LilyFlower1SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                3,
+                3,
+                3
+            ],
+            "ScaleMin": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Shroom",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Shroom",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "ShroomSmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "ShroomStaticItem"
+        },
+        {
+            "AdditiveElevation": 20,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "ShroomStaticItem",
+            "Mesh": "Props/Shroom/Shroom",
+            "Name": "ShroomSmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                2,
+                2,
+                2
+            ],
+            "ScaleMin": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Shroom",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Shroom",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "Shroom1SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "Shroom1StaticItem"
+        },
+        {
+            "AdditiveElevation": 20,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "ShroomStaticItem",
+            "Mesh": "Props/Shroom/Shroom1",
+            "Name": "Shroom1SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                2,
+                2,
+                2
+            ],
+            "ScaleMin": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Shroom",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Shroom",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "Shroom2SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "Shroom2StaticItem"
+        },
+        {
+            "AdditiveElevation": 20,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "ShroomStaticItem",
+            "Mesh": "Props/Shroom/Shroom2",
+            "Name": "Shroom2SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                2,
+                2,
+                2
+            ],
+            "ScaleMin": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Shroom",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Shroom",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "Shroom3SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "Shroom3StaticItem"
+        },
+        {
+            "AdditiveElevation": 20,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "ShroomStaticItem",
+            "Mesh": "Props/Shroom/Shroom3",
+            "Name": "Shroom3SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                2,
+                2,
+                2
+            ],
+            "ScaleMin": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Shroom",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Shroom",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "Shroom4SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "Shroom4StaticItem"
+        },
+        {
+            "AdditiveElevation": 20,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "ShroomStaticItem",
+            "Mesh": "Props/Shroom/Shroom4",
+            "Name": "Shroom4SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                2,
+                2,
+                2
+            ],
+            "ScaleMin": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Shroom",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Shroom",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "Shroom5SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "Shroom5StaticItem"
+        },
+        {
+            "AdditiveElevation": 20,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "ShroomStaticItem",
+            "Mesh": "Props/Shroom/Shroom5",
+            "Name": "Shroom5SmallStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                2,
+                2,
+                2
+            ],
+            "ScaleMin": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_YellowFlower",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "YellowFlower",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "YellowFlowerSmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "YellowFlowerStaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "YellowFlowerStaticItem",
+            "Mesh": "Props/YellowFlower/YellowFlower",
+            "Name": "YellowFlowerSmallStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                2,
+                2,
+                2
+            ],
+            "ScaleMin": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_RedFlower",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "RedFlower",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "RedFlowerSmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "RedFlowerStaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "RedFlowerStaticItem",
+            "Mesh": "Props/RedFlower/RedFlower",
+            "Name": "RedFlowerSmallStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                2,
+                2,
+                2
+            ],
+            "ScaleMin": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_WhiteFlower",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "WhiteFlower",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "WhiteFlowerSmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "WhiteFlowerStaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "WhiteFlowerStaticItem",
+            "Mesh": "Props/WhiteFlower/WhiteFlower",
+            "Name": "WhiteFlowerSmallStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                2,
+                2,
+                2
+            ],
+            "ScaleMin": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_BigBush",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "BigBush",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "BigBushSmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "BigBushStaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "BigBushStaticItem",
+            "Mesh": "Props/BigBush/BigBush",
+            "Name": "BigBushSmallStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                3,
+                3,
+                3
+            ],
+            "ScaleMin": [
+                1.5,
+                1.5,
+                1.5
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SmallRock",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SmallRock",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SmallRockSmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SmallRockStaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SmallRockStaticItem",
+            "Mesh": "Props/SmallRock/SmallRock",
+            "Name": "SmallRockSmallStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                3,
+                3,
+                3
+            ],
+            "ScaleMin": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Diptero",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Diptero",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "DipteroBigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "DipteroStaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "BigStaticProp",
+            "Item": "DipteroStaticItem",
+            "Mesh": "Props/Diptero/Diptero",
+            "Name": "DipteroBigStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                1.3,
+                1.3,
+                1.3
+            ],
+            "ScaleMin": [
+                0.8,
+                0.8,
+                0.8
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_Diptero",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "Diptero",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "Diptero1BigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "Diptero1StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "BigStaticProp",
+            "Item": "DipteroStaticItem",
+            "Mesh": "Props/Diptero/Diptero1",
+            "Name": "Diptero1BigStaticProp",
+            "ProjectToTerrainPower": 0,
+            "ScaleMax": [
+                1.3,
+                1.3,
+                1.3
+            ],
+            "ScaleMin": [
+                0.8,
+                0.8,
+                0.8
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_DryGrass",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "DryGrass",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "DryGrassSmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "DryGrassStaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "DryGrassStaticItem",
+            "Mesh": "Props/DryGrass/DryGrass",
+            "Name": "DryGrassSmallStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_VolcanicRock",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "VolcanicRock",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "VolcanicRockBigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "VolcanicRockStaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "BigStaticProp",
+            "Item": "VolcanicRockStaticItem",
+            "Mesh": "Props/VolcanicRock/VolcanicRock",
+            "Name": "VolcanicRockBigStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                1,
+                1,
+                1
+            ],
+            "ScaleMin": [
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_VolcanicRock",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "VolcanicRock",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "VolcanicRock1BigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "VolcanicRock1StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "BigStaticProp",
+            "Item": "VolcanicRockStaticItem",
+            "Mesh": "Props/VolcanicRock/VolcanicRock1",
+            "Name": "VolcanicRock1BigStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                1,
+                1,
+                1
+            ],
+            "ScaleMin": [
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_VolcanicRock",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "VolcanicRock",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "VolcanicRock2BigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "VolcanicRock2StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "BigStaticProp",
+            "Item": "VolcanicRockStaticItem",
+            "Mesh": "Props/VolcanicRock/VolcanicRock2",
+            "Name": "VolcanicRock2BigStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                1,
+                1,
+                1
+            ],
+            "ScaleMin": [
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_VolcanicRock",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "VolcanicRock",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "VolcanicRock3BigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "VolcanicRock3StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "BigStaticProp",
+            "Item": "VolcanicRockStaticItem",
+            "Mesh": "Props/VolcanicRock/VolcanicRock3",
+            "Name": "VolcanicRock3BigStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                1,
+                1,
+                1
+            ],
+            "ScaleMin": [
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SnowyRock",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SnowyRock",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SnowyRockBigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SnowyRockStaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "BigStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SnowyRockStaticItem",
+            "Mesh": "Props/SnowyRock/SnowyRock",
+            "Name": "SnowyRockBigStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                1,
+                1,
+                1
+            ],
+            "ScaleMin": [
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SnowyRock",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SnowyRock",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SnowyRock1BigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SnowyRock1StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "BigStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SnowyRockStaticItem",
+            "Mesh": "Props/SnowyRock/SnowyRock1",
+            "Name": "SnowyRock1BigStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                1,
+                1,
+                1
+            ],
+            "ScaleMin": [
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SnowyRock",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SnowyRock",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SnowyRock2BigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SnowyRock2StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "BigStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SnowyRockStaticItem",
+            "Mesh": "Props/SnowyRock/SnowyRock2",
+            "Name": "SnowyRock2BigStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                1,
+                1,
+                1
+            ],
+            "ScaleMin": [
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SnowyRock",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SnowyRock",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SnowyRock3BigStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SnowyRock3StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "BigStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SnowyRockStaticItem",
+            "Mesh": "Props/SnowyRock/SnowyRock3",
+            "Name": "SnowyRock3BigStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                1,
+                1,
+                1
+            ],
+            "ScaleMin": [
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SnowyGrass",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SnowyGrass",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SnowyGrassSmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SnowyGrassStaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SnowyGrassStaticItem",
+            "Mesh": "Props/SnowyGrass/SnowyGrass",
+            "Name": "SnowyGrassSmallStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SnowyGrass",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SnowyGrass",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SnowyGrass1SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SnowyGrass1StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SnowyGrassStaticItem",
+            "Mesh": "Props/SnowyGrass/SnowyGrass1",
+            "Name": "SnowyGrass1SmallStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Category": "Terrain",
+            "Class": "SolidStaticItem",
+            "DescriptionParts": [
+                [
+                    "WorldObject",
+                    "common"
+                ]
+            ],
+            "Image": "T_SnowyGrass",
+            "ItemLogic": "BuildingPropItemLogic",
+            "LabelParts": [
+                [
+                    "SnowyGrass",
+                    "props"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SnowyGrass2SmallStaticProp"
+            },
+            "MaxCount": 32,
+            "Name": "SnowyGrass2StaticItem"
+        },
+        {
+            "AdditiveElevation": 0,
+            "Class": "SmallStaticProp",
+            "CullBegin": 10000,
+            "CullEnd": 12000,
+            "Item": "SnowyGrassStaticItem",
+            "Mesh": "Props/SnowyGrass/SnowyGrass2",
+            "Name": "SnowyGrass2SmallStaticProp",
+            "ProjectToTerrainPower": 1,
+            "ScaleMax": [
+                4,
+                4,
+                4
+            ],
+            "ScaleMin": [
+                2,
+                2,
+                2
+            ]
+        },
+        {
+            "Array": [
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "SmallRockSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.25,
+                    "Props": [
+                        "DryGrassSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 5e-05,
+                    "Props": [
+                        "BroadleafBigStaticProp",
+                        "Broadleaf1BigStaticProp",
+                        "Broadleaf2BigStaticProp",
+                        "BroadleafBigStaticProp",
+                        "Broadleaf1BigStaticProp",
+                        "Broadleaf2BigStaticProp",
+                        "BirchBigStaticProp",
+                        "Birch1BigStaticProp",
+                        "BigBushSmallStaticProp",
+                        "NoleafesBigStaticProp"
+                    ]
+                }
+            ],
+            "Class": "PropList",
+            "Name": "PrairieDryPropList"
+        },
+        {
+            "Array": [
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "SmallRockSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.175,
+                    "Props": [
+                        "DryGrassSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.175,
+                    "Props": [
+                        "LongGrassSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.0002,
+                    "Props": [
+                        "BroadleafBigStaticProp",
+                        "Broadleaf1BigStaticProp",
+                        "Broadleaf2BigStaticProp",
+                        "BroadleafBigStaticProp",
+                        "Broadleaf1BigStaticProp",
+                        "Broadleaf2BigStaticProp",
+                        "BirchBigStaticProp",
+                        "Birch1BigStaticProp",
+                        "BigBushSmallStaticProp",
+                        "NoleafesBigStaticProp"
+                    ]
+                }
+            ],
+            "Class": "PropList",
+            "Name": "PrairiePropList"
+        },
+        {
+            "Array": [
+                {
+                    "Chance": 0.0005,
+                    "Props": [
+                        "DipteroBigStaticProp",
+                        "Diptero1BigStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "BroadleafBigStaticProp",
+                        "Broadleaf1BigStaticProp",
+                        "Broadleaf2BigStaticProp",
+                        "BroadleafBigStaticProp",
+                        "Broadleaf1BigStaticProp",
+                        "Broadleaf2BigStaticProp",
+                        "BirchBigStaticProp",
+                        "Birch1BigStaticProp",
+                        "ShrubBigStaticProp",
+                        "BigBushSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "SmallRockSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.025,
+                    "Props": [
+                        "FernSmallStaticProp",
+                        "Fern1SmallStaticProp",
+                        "Fern2SmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.45,
+                    "Props": [
+                        "LongGrassSmallStaticProp"
+                    ]
+                }
+            ],
+            "Class": "PropList",
+            "Name": "DipteroPropList"
+        },
+        {
+            "Array": [
+                {
+                    "Chance": 0.03,
+                    "Props": [
+                        "SmallRockSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "VolcanicRockBigStaticProp",
+                        "VolcanicRock1BigStaticProp",
+                        "VolcanicRock2BigStaticProp",
+                        "VolcanicRock3BigStaticProp"
+                    ]
+                }
+            ],
+            "Class": "PropList",
+            "Name": "SmallRocksProps"
+        },
+        {
+            "Array": [
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "SnowyRockBigStaticProp",
+                        "SnowyRock1BigStaticProp",
+                        "SnowyRock2BigStaticProp",
+                        "SnowyRock3BigStaticProp"
+                    ]
+                }
+            ],
+            "Class": "PropList",
+            "Name": "SnowProps"
+        },
+        {
+            "Array": [
+                {
+                    "Chance": 0.025,
+                    "Props": [
+                        "ShrubBigStaticProp",
+                        "BigBushSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.25,
+                    "Props": [
+                        "LongGrassSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.05,
+                    "Props": [
+                        "TallGrassSmallStaticProp"
+                    ]
+                }
+            ],
+            "Class": "PropList",
+            "Name": "BushlandProps"
+        },
+        {
+            "Array": [
+                {
+                    "Chance": 0.0025,
+                    "Props": [
+                        "RockBigStaticProp",
+                        "Rock1BigStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.025,
+                    "Props": [
+                        "DandaleonSmallStaticProp",
+                        "Dandaleon1SmallStaticProp",
+                        "Dandaleon2SmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.45,
+                    "Props": [
+                        "LongGrassSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.15,
+                    "Props": [
+                        "TallGrassSmallStaticProp"
+                    ]
+                }
+            ],
+            "Class": "PropList",
+            "Name": "GrasslandProps"
+        },
+        {
+            "Array": [
+                {
+                    "Chance": 0.25,
+                    "Props": [
+                        "RedFlowerSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.45,
+                    "Props": [
+                        "LongGrassSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.0005,
+                    "Props": [
+                        "ButterflyStaticDecoration"
+                    ]
+                },
+                {
+                    "Chance": 0.0005,
+                    "Props": [
+                        "FliesStaticDecoration"
+                    ]
+                }
+            ],
+            "Class": "PropList",
+            "Name": "RedFlowersProps"
+        },
+        {
+            "Array": [
+                {
+                    "Chance": 0.25,
+                    "Props": [
+                        "YellowFlowerSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.45,
+                    "Props": [
+                        "LongGrassSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.0005,
+                    "Props": [
+                        "ButterflyStaticDecoration"
+                    ]
+                }
+            ],
+            "Class": "PropList",
+            "Name": "YellowFlowersProps"
+        },
+        {
+            "Array": [
+                {
+                    "Chance": 0.25,
+                    "Props": [
+                        "WhiteFlowerSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.45,
+                    "Props": [
+                        "LongGrassSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.0005,
+                    "Props": [
+                        "ButterflyStaticDecoration"
+                    ]
+                }
+            ],
+            "Class": "PropList",
+            "Name": "WhiteFlowersProps"
+        },
+        {
+            "Array": [
+                {
+                    "Chance": 0.0005,
+                    "Props": [
+                        "NoleafesBigStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.01,
+                    "Props": [
+                        "BroadleafBigStaticProp",
+                        "Broadleaf1BigStaticProp",
+                        "Broadleaf2BigStaticProp",
+                        "BroadleafBigStaticProp",
+                        "Broadleaf1BigStaticProp",
+                        "Broadleaf2BigStaticProp",
+                        "BirchBigStaticProp",
+                        "Birch1BigStaticProp",
+                        "ShrubBigStaticProp",
+                        "BigBushSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "SmallRockSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.015,
+                    "Props": [
+                        "FernSmallStaticProp",
+                        "Fern1SmallStaticProp",
+                        "Fern2SmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.15,
+                    "Props": [
+                        "DandaleonSmallStaticProp",
+                        "Dandaleon1SmallStaticProp",
+                        "Dandaleon2SmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.35,
+                    "Props": [
+                        "LongGrassSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "ShroomSmallStaticProp",
+                        "Shroom1SmallStaticProp",
+                        "Shroom2SmallStaticProp",
+                        "Shroom3SmallStaticProp",
+                        "Shroom4SmallStaticProp",
+                        "Shroom5SmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.0005,
+                    "Props": [
+                        "BirdsStaticDecoration"
+                    ]
+                },
+                {
+                    "Chance": 0.0005,
+                    "Props": [
+                        "LeafesStaticDecoration"
+                    ]
+                }
+            ],
+            "Class": "PropList",
+            "Name": "DenseForestProps"
+        },
+        {
+            "Array": [
+                {
+                    "Chance": 0.0005,
+                    "Props": [
+                        "NoleafesBigStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "BroadleafBigStaticProp",
+                        "Broadleaf1BigStaticProp",
+                        "Broadleaf2BigStaticProp",
+                        "BroadleafBigStaticProp",
+                        "Broadleaf1BigStaticProp",
+                        "Broadleaf2BigStaticProp",
+                        "BirchBigStaticProp",
+                        "Birch1BigStaticProp",
+                        "ShrubBigStaticProp",
+                        "BigBushSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "SmallRockSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.025,
+                    "Props": [
+                        "FernSmallStaticProp",
+                        "Fern1SmallStaticProp",
+                        "Fern2SmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.25,
+                    "Props": [
+                        "DandaleonSmallStaticProp",
+                        "Dandaleon1SmallStaticProp",
+                        "Dandaleon2SmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.45,
+                    "Props": [
+                        "LongGrassSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "ShroomSmallStaticProp",
+                        "Shroom1SmallStaticProp",
+                        "Shroom2SmallStaticProp",
+                        "Shroom3SmallStaticProp",
+                        "Shroom4SmallStaticProp",
+                        "Shroom5SmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.0005,
+                    "Props": [
+                        "BirdsStaticDecoration"
+                    ]
+                },
+                {
+                    "Chance": 0.0005,
+                    "Props": [
+                        "LeafesStaticDecoration"
+                    ]
+                },
+                {
+                    "Chance": 0.001,
+                    "Props": [
+                        "FliesStaticDecoration"
+                    ]
+                }
+            ],
+            "Class": "PropList",
+            "Name": "ForestProps"
+        },
+        {
+            "Array": [
+                {
+                    "Chance": 0.0005,
+                    "Props": [
+                        "RockBigStaticProp",
+                        "Rock1BigStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "SmallRockSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.01,
+                    "Props": [
+                        "PineBigStaticProp",
+                        "Pine1BigStaticProp",
+                        "Pine2BigStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.015,
+                    "Props": [
+                        "LongGrassSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "ShroomSmallStaticProp",
+                        "Shroom1SmallStaticProp",
+                        "Shroom2SmallStaticProp",
+                        "Shroom3SmallStaticProp",
+                        "Shroom4SmallStaticProp",
+                        "Shroom5SmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.0005,
+                    "Props": [
+                        "BirdsStaticDecoration"
+                    ]
+                },
+                {
+                    "Chance": 0.0005,
+                    "Props": [
+                        "FliesStaticDecoration"
+                    ]
+                }
+            ],
+            "Class": "PropList",
+            "Name": "DensePineForestProps"
+        },
+        {
+            "Array": [
+                {
+                    "Chance": 0.001,
+                    "Props": [
+                        "RockBigStaticProp",
+                        "Rock1BigStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "SmallRockSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "PineBigStaticProp",
+                        "Pine1BigStaticProp",
+                        "Pine2BigStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.035,
+                    "Props": [
+                        "LongGrassSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "ShroomSmallStaticProp",
+                        "Shroom1SmallStaticProp",
+                        "Shroom2SmallStaticProp",
+                        "Shroom3SmallStaticProp",
+                        "Shroom4SmallStaticProp",
+                        "Shroom5SmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.0005,
+                    "Props": [
+                        "BirdsStaticDecoration"
+                    ]
+                },
+                {
+                    "Chance": 0.0005,
+                    "Props": [
+                        "BugsStaticDecoration"
+                    ]
+                },
+                {
+                    "Chance": 0.0005,
+                    "Props": [
+                        "FliesStaticDecoration"
+                    ]
+                }
+            ],
+            "Class": "PropList",
+            "Name": "PineForestProps"
+        },
+        {
+            "Array": [
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "RockBigStaticProp",
+                        "Rock1BigStaticProp"
+                    ]
+                }
+            ],
+            "Class": "PropList",
+            "Name": "UnimplementedProps"
+        },
+        {
+            "Array": [
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "CactusBigStaticProp",
+                        "Cactus1BigStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.001,
+                    "Props": [
+                        "PalmBigStaticProp",
+                        "Palm1BigStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.001,
+                    "Props": [
+                        "DesertSoundStaticDecoration"
+                    ]
+                }
+            ],
+            "Class": "PropList",
+            "Name": "DesertProps"
+        },
+        {
+            "Array": [
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "SmallRockSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.035,
+                    "Props": [
+                        "SeaPlantSmallStaticProp",
+                        "SeaPlant1SmallStaticProp",
+                        "SeaPlant2SmallStaticProp",
+                        "SeaPlant3SmallStaticProp",
+                        "SeaPlant4SmallStaticProp",
+                        "SeaPlant5SmallStaticProp",
+                        "SeaPlant6SmallStaticProp",
+                        "SeaPlant7SmallStaticProp",
+                        "SeaPlant8SmallStaticProp",
+                        "SeaPlant9SmallStaticProp",
+                        "SeaPlant10SmallStaticProp",
+                        "SeaPlant11SmallStaticProp",
+                        "SeaPlant12SmallStaticProp",
+                        "SeaPlant13SmallStaticProp",
+                        "SeaPlant14SmallStaticProp",
+                        "SeaPlant15SmallStaticProp",
+                        "SeaPlant16SmallStaticProp",
+                        "SeaPlant17SmallStaticProp",
+                        "SeaPlant18SmallStaticProp",
+                        "SeaPlant19SmallStaticProp",
+                        "SeaPlant20SmallStaticProp",
+                        "SeaPlant21SmallStaticProp"
+                    ]
+                }
+            ],
+            "Class": "PropList",
+            "Name": "IslandProps"
+        },
+        {
+            "Array": [
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "SmallRockSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.075,
+                    "Props": [
+                        "SeaGrassSmallStaticProp",
+                        "SeaGrass1SmallStaticProp",
+                        "SeaGrass2SmallStaticProp",
+                        "SeaGrass3SmallStaticProp",
+                        "SeaGrass4SmallStaticProp"
+                    ]
+                }
+            ],
+            "Class": "PropList",
+            "Name": "SeagrassProps"
+        },
+        {
+            "Array": [
+                {
+                    "Chance": 0.025,
+                    "Props": [
+                        "SmallRockSmallStaticProp"
+                    ]
+                }
+            ],
+            "Class": "PropList",
+            "Name": "EmptySeaProps"
+        },
+        {
+            "Array": [
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "SmallRockSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.35,
+                    "Props": [
+                        "LongGrassSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.025,
+                    "Props": [
+                        "FernSmallStaticProp",
+                        "Fern1SmallStaticProp",
+                        "Fern2SmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.25,
+                    "Props": [
+                        "RogozSmallStaticProp",
+                        "Rogoz1SmallStaticProp",
+                        "Rogoz2SmallStaticProp",
+                        "Rogoz3SmallStaticProp",
+                        "Rogoz4SmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.25,
+                    "Props": [
+                        "LilySmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.025,
+                    "Props": [
+                        "LilyFlowerSmallStaticProp",
+                        "LilyFlower1SmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.001,
+                    "Props": [
+                        "SwampSoundStaticDecoration"
+                    ]
+                },
+                {
+                    "Chance": 0.0025,
+                    "Props": [
+                        "FireflyStaticDecoration",
+                        "FliesStaticDecoration"
+                    ]
+                }
+            ],
+            "Class": "PropList",
+            "Name": "SwampProps"
+        },
+        {
+            "Array": [
+                {
+                    "Chance": 0.35,
+                    "Props": [
+                        "LongGrassSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.025,
+                    "Props": [
+                        "FernSmallStaticProp",
+                        "Fern1SmallStaticProp",
+                        "Fern2SmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "BirchBigStaticProp",
+                        "Birch1BigStaticProp",
+                        "BigBushSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "ShroomSmallStaticProp",
+                        "Shroom1SmallStaticProp",
+                        "Shroom2SmallStaticProp",
+                        "Shroom3SmallStaticProp",
+                        "Shroom4SmallStaticProp",
+                        "Shroom5SmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.0025,
+                    "Props": [
+                        "FireflyStaticDecoration",
+                        "FliesStaticDecoration"
+                    ]
+                }
+            ],
+            "Class": "PropList",
+            "Name": "SwampForestProps"
+        },
+        {
+            "Array": [
+                {
+                    "Chance": 0.035,
+                    "Props": [
+                        "LongGrassSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "BirchBigStaticProp",
+                        "Birch1BigStaticProp",
+                        "BigBushSmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "ShroomSmallStaticProp",
+                        "Shroom1SmallStaticProp",
+                        "Shroom2SmallStaticProp",
+                        "Shroom3SmallStaticProp",
+                        "Shroom4SmallStaticProp",
+                        "Shroom5SmallStaticProp"
+                    ]
+                }
+            ],
+            "Class": "PropList",
+            "Name": "OreProps"
+        },
+        {
+            "Array": [
+                {
+                    "Chance": 0.1,
+                    "Props": [
+                        "SnowyGrassSmallStaticProp",
+                        "SnowyGrass1SmallStaticProp",
+                        "SnowyGrass2SmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.005,
+                    "Props": [
+                        "SnowyRockBigStaticProp",
+                        "SnowyRock1BigStaticProp",
+                        "SnowyRock2BigStaticProp",
+                        "SnowyRock3BigStaticProp"
+                    ]
+                }
+            ],
+            "Class": "PropList",
+            "Name": "SnowGrassProps"
+        },
+        {
+            "Array": [
+                {
+                    "Chance": 0.1,
+                    "Props": [
+                        "SnowyGrassSmallStaticProp",
+                        "SnowyGrass1SmallStaticProp",
+                        "SnowyGrass2SmallStaticProp"
+                    ]
+                },
+                {
+                    "Chance": 0.0025,
+                    "Props": [
+                        "SnowyPineBigStaticProp",
+                        "SnowyPine1BigStaticProp",
+                        "SnowyPine2BigStaticProp"
+                    ]
+                }
+            ],
+            "Class": "PropList",
+            "Name": "SnowForestProps"
+        }
+    ]
+}

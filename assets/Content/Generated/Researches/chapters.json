@@ -1,0 +1,36 @@
+{
+    "Objects": [
+        {
+            "Class": "StaticChapter",
+            "DescriptionParts": [
+                [
+                    "ProductionDescription",
+                    "chapters"
+                ]
+            ],
+            "LabelParts": [
+                [
+                    "Production",
+                    "chapters"
+                ]
+            ],
+            "Name": "ProductionStaticChapter"
+        },
+        {
+            "Class": "StaticChapter",
+            "DescriptionParts": [
+                [
+                    "DecorationsDescription",
+                    "chapters"
+                ]
+            ],
+            "LabelParts": [
+                [
+                    "Decorations",
+                    "chapters"
+                ]
+            ],
+            "Name": "DecorationsStaticChapter"
+        }
+    ]
+}

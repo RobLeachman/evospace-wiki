@@ -1,0 +1,647 @@
+{
+    "Objects": [
+        {
+            "Blocks": [
+                "DryGrassSurfaceStaticSurface",
+                "DirtSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "DarkStoneSurfaceStaticSurface"
+            ],
+            "Class": "SimpleLayeringGenerator",
+            "Name": "DryGrassLayering",
+            "Starts": [
+                0,
+                3,
+                6,
+                9,
+                12,
+                16,
+                19,
+                23,
+                30
+            ]
+        },
+        {
+            "Blocks": [
+                "GrassSurfaceStaticSurface",
+                "DirtSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "DarkStoneSurfaceStaticSurface"
+            ],
+            "Class": "SimpleLayeringGenerator",
+            "Name": "GrassLayering",
+            "Starts": [
+                0,
+                3,
+                6,
+                9,
+                12,
+                16,
+                19,
+                23,
+                30
+            ]
+        },
+        {
+            "Class": "PropsGenerator",
+            "Name": "PrairieDryProps",
+            "PropList": "PrairieDryPropList"
+        },
+        {
+            "Class": "PropsGenerator",
+            "Name": "PrairieProps",
+            "PropList": "PrairiePropList"
+        },
+        {
+            "Blocks": [
+                "GrassSurfaceStaticSurface",
+                "DirtSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "DarkStoneSurfaceStaticSurface"
+            ],
+            "Class": "SimpleLayeringGenerator",
+            "Name": "DipteroLayering",
+            "Starts": [
+                0,
+                3,
+                6,
+                9,
+                12,
+                16,
+                19,
+                23,
+                30
+            ]
+        },
+        {
+            "Class": "PropsGenerator",
+            "Name": "DipteroProps",
+            "PropList": "DipteroPropList"
+        },
+        {
+            "Blocks": [
+                "SnowSurfaceStaticSurface",
+                "DirtSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "DarkStoneSurfaceStaticSurface"
+            ],
+            "Class": "SimpleLayeringGenerator",
+            "Name": "SnowLayering",
+            "Starts": [
+                0,
+                3,
+                6,
+                9,
+                12,
+                16,
+                19,
+                23,
+                30
+            ]
+        },
+        {
+            "Blocks": [
+                "BogSurfaceStaticSurface",
+                "DirtSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "DarkStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface"
+            ],
+            "Class": "SimpleLayeringGenerator",
+            "Name": "BogGrassLayeringGrass",
+            "Starts": [
+                0,
+                3,
+                6,
+                9,
+                12,
+                16,
+                19,
+                23,
+                30
+            ]
+        },
+        {
+            "Blocks": [
+                "PeatSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "DarkStoneSurfaceStaticSurface"
+            ],
+            "Class": "SimpleLayeringGenerator",
+            "Name": "PeatLayering",
+            "Starts": [
+                0,
+                2,
+                6,
+                9,
+                12,
+                16,
+                19,
+                23,
+                30
+            ]
+        },
+        {
+            "Blocks": [
+                "ClayOreStaticSurface",
+                "ClayOreStaticSurface",
+                "DarkStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "DarkStoneSurfaceStaticSurface"
+            ],
+            "Class": "SimpleLayeringGenerator",
+            "Name": "ClayLayering",
+            "Starts": [
+                0,
+                2,
+                6,
+                9,
+                12,
+                16,
+                19,
+                23,
+                30
+            ]
+        },
+        {
+            "Class": "PropsGenerator",
+            "Name": "BogPropsBase",
+            "PropList": "SwampProps"
+        },
+        {
+            "Class": "PropsGenerator",
+            "Name": "BogForestPropsBase",
+            "PropList": "SwampForestProps"
+        },
+        {
+            "Class": "PropsGenerator",
+            "Name": "OrePropsBase",
+            "PropList": "OreProps"
+        },
+        {
+            "Class": "BogHeightMap",
+            "Name": "BogHeightMapBase"
+        },
+        {
+            "Class": "BogForestHeightMap",
+            "Name": "BogForestHeightMapBase"
+        },
+        {
+            "Blocks": [
+                "PineForestSurfaceStaticSurface",
+                "DirtSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "DarkStoneSurfaceStaticSurface"
+            ],
+            "Class": "SimpleLayeringGenerator",
+            "Name": "JustGrassLayeringPine",
+            "Starts": [
+                0,
+                3,
+                6,
+                9,
+                12,
+                16,
+                19,
+                23,
+                30
+            ]
+        },
+        {
+            "Class": "PropsGenerator",
+            "Name": "GrasslandPropsBase",
+            "PropList": "GrasslandProps"
+        },
+        {
+            "Class": "PropsGenerator",
+            "Name": "GrasslandPropsRed",
+            "PropList": "RedFlowersProps"
+        },
+        {
+            "Class": "PropsGenerator",
+            "Name": "GrasslandPropsWhite",
+            "PropList": "WhiteFlowersProps"
+        },
+        {
+            "Class": "PropsGenerator",
+            "Name": "GrasslandPropsYellow",
+            "PropList": "YellowFlowersProps"
+        },
+        {
+            "Class": "PropsGenerator",
+            "Name": "BushlandPropsBase",
+            "PropList": "BushlandProps"
+        },
+        {
+            "Class": "PropsGenerator",
+            "Name": "ForestPropsBase",
+            "PropList": "ForestProps"
+        },
+        {
+            "Class": "PropsGenerator",
+            "Name": "PineForestPropsBase",
+            "PropList": "PineForestProps"
+        },
+        {
+            "Class": "FieldsHeightMap",
+            "Name": "FieldsHeightMapBase"
+        },
+        {
+            "Class": "HillsHeightMap",
+            "Name": "HillsHeightMapBase"
+        },
+        {
+            "Class": "HillsSIMDHeightMap",
+            "Name": "HillsSIMDHeightMapBase"
+        },
+        {
+            "Class": "MountainsHeightMap",
+            "Name": "MountainsHeightMapBase"
+        },
+        {
+            "Class": "MountainDensity",
+            "Name": "MountainDensityBase"
+        },
+        {
+            "Class": "PropsGenerator",
+            "Name": "DenseForestPropsBase",
+            "PropList": "DenseForestProps"
+        },
+        {
+            "Class": "PropsGenerator",
+            "Name": "DensePineForestPropsBase",
+            "PropList": "DensePineForestProps"
+        },
+        {
+            "Blocks": [
+                "SandSurfaceStaticSurface",
+                "LimestoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "DarkStoneSurfaceStaticSurface"
+            ],
+            "Class": "SimpleLayeringGenerator",
+            "Name": "SeaBottomLayeringSand",
+            "Starts": [
+                0,
+                3,
+                9,
+                12,
+                16,
+                19,
+                23,
+                30
+            ]
+        },
+        {
+            "Blocks": [
+                "SandSurfaceStaticSurface",
+                "LimestoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "DarkStoneSurfaceStaticSurface"
+            ],
+            "Class": "SimpleLayeringGenerator",
+            "Name": "IslesLayeringSand",
+            "Starts": [
+                0,
+                3,
+                9,
+                12,
+                16,
+                19,
+                23,
+                30
+            ]
+        },
+        {
+            "Blocks": [
+                "GravelSurfaceStaticSurface",
+                "LimestoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "DarkStoneSurfaceStaticSurface"
+            ],
+            "Class": "SimpleLayeringGenerator",
+            "Name": "SeaBottomLayeringGravel",
+            "Starts": [
+                0,
+                3,
+                9,
+                12,
+                16,
+                19,
+                23,
+                30
+            ]
+        },
+        {
+            "Blocks": [
+                "CopperOreStaticSurface",
+                "LimestoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "DarkStoneSurfaceStaticSurface"
+            ],
+            "Class": "SimpleLayeringGenerator",
+            "Name": "SeaBottomLayeringCopper",
+            "Starts": [
+                0,
+                2,
+                9,
+                12,
+                16,
+                19,
+                23,
+                30
+            ]
+        },
+        {
+            "Blocks": [
+                "ClayOreStaticSurface",
+                "LimestoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "DarkStoneSurfaceStaticSurface"
+            ],
+            "Class": "SimpleLayeringGenerator",
+            "Name": "SeaBottomLayeringClay",
+            "Starts": [
+                0,
+                2,
+                9,
+                12,
+                16,
+                19,
+                23,
+                30
+            ]
+        },
+        {
+            "Class": "PropsGenerator",
+            "Name": "IslesPropsBase",
+            "PropList": "IslandProps"
+        },
+        {
+            "Class": "PropsGenerator",
+            "Name": "SeaGrassPropsBase",
+            "PropList": "SeagrassProps"
+        },
+        {
+            "Class": "PropsGenerator",
+            "Name": "EmptySeaPropsBase",
+            "PropList": "EmptySeaProps"
+        },
+        {
+            "Class": "SeaBottomHeightMap",
+            "Name": "SeaBottomHeightMapBase"
+        },
+        {
+            "Class": "IslesHeightMap",
+            "Name": "IslesHeightMapBase"
+        },
+        {
+            "Blocks": [
+                "BasaltSurfaceStaticSurface",
+                "LavaSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface"
+            ],
+            "Class": "SimpleLayeringGenerator",
+            "Name": "VolcanicLayeringBasalt",
+            "Starts": [
+                0,
+                4,
+                9,
+                12
+            ]
+        },
+        {
+            "Blocks": [
+                "BasaltSurfaceStaticSurface",
+                "LavaSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface"
+            ],
+            "Class": "SimpleLayeringGenerator",
+            "Name": "BrokenLandLayeringBasalt",
+            "Starts": [
+                0,
+                4,
+                9,
+                12
+            ]
+        },
+        {
+            "Class": "VolcanoHeightMap",
+            "Name": "VolcanoHeightMapBase"
+        },
+        {
+            "Class": "BrokenLandHeightMap",
+            "Name": "BrokenLandHeightMapBase"
+        },
+        {
+            "Class": "PropsGenerator",
+            "Name": "SmallRocksPropsBase",
+            "PropList": "SmallRocksProps"
+        },
+        {
+            "Blocks": [
+                "SandSurfaceStaticSurface",
+                "SandstoneSurfaceStaticSurface",
+                "LimestoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "DarkStoneSurfaceStaticSurface"
+            ],
+            "Class": "SimpleLayeringGenerator",
+            "Name": "RiverLayeringSand",
+            "Starts": [
+                0,
+                3,
+                6,
+                9,
+                12,
+                16,
+                19,
+                23,
+                30
+            ]
+        },
+        {
+            "Class": "RiverHeightMap",
+            "Name": "RiverHeightMapBase"
+        },
+        {
+            "Blocks": [
+                "DesertSandSurfaceStaticSurface",
+                "SandstoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "DarkStoneSurfaceStaticSurface"
+            ],
+            "Class": "SimpleLayeringGenerator",
+            "Name": "SandLayeringSand",
+            "Starts": [
+                0,
+                3,
+                6,
+                9,
+                12,
+                16,
+                19,
+                23,
+                30
+            ]
+        },
+        {
+            "Blocks": [
+                "DesertSandSurfaceStaticSurface",
+                "SandstoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "DarkStoneSurfaceStaticSurface"
+            ],
+            "Class": "SimpleLayeringGenerator",
+            "Name": "SandDesertLayeringSand",
+            "Starts": [
+                0,
+                3,
+                6,
+                9,
+                12,
+                16,
+                19,
+                23,
+                30
+            ]
+        },
+        {
+            "Blocks": [
+                "DesertSandSurfaceStaticSurface",
+                "SandstoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "RedStoneSurfaceStaticSurface",
+                "StoneSurfaceStaticSurface",
+                "DarkStoneSurfaceStaticSurface"
+            ],
+            "Class": "SimpleLayeringGenerator",
+            "Name": "MensaeMountainDesertLayeringSand",
+            "Starts": [
+                0,
+                3,
+                6,
+                9,
+                12,
+                16,
+                19,
+                23,
+                30
+            ]
+        },
+        {
+            "Class": "PropsGenerator",
+            "Name": "SandlandPropsBase",
+            "PropList": "DesertProps"
+        },
+        {
+            "Class": "SandDesertHeightMap",
+            "Name": "SandDesertHeightMapBase"
+        },
+        {
+            "Class": "MensaeMountainDesertLayering",
+            "Name": "MensaeMountainDesertLayeringBase"
+        },
+        {
+            "Class": "MensaeMountainDesertHeightMap",
+            "Name": "MensaeMountainDesertHeightMapBase"
+        },
+        {
+            "Class": "MensaeUMountainDensity",
+            "Name": "MensaeUMountainDensityBase"
+        },
+        {
+            "Class": "PropsGenerator",
+            "Name": "SnowPropsBase",
+            "PropList": "SnowProps"
+        },
+        {
+            "Class": "PropsGenerator",
+            "Name": "SnowGrassGenerator",
+            "PropList": "SnowGrassProps"
+        },
+        {
+            "Class": "PropsGenerator",
+            "Name": "SnowForestGenerator",
+            "PropList": "SnowForestProps"
+        }
+    ]
+}

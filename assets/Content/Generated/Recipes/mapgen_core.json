@@ -1,0 +1,430 @@
+{
+    "Objects": [
+        {
+            "Class": "BaseRecipeDictionary",
+            "Name": "MultitoolBaseRecipeDictionary",
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "SandSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "SandSurfaceBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "SandSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "SandstoneSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "SandstoneSurfaceBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "SandSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "StoneSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "StoneSurfaceBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "StoneSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 40
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "DesertSandSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "DesertSandSurfaceBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "SandSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "GrassSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "GrassSurfaceBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "DirtSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "BogFogSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "BogFogSurfaceBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "DirtSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "LavaSmokeSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "LavaSmokeSurfaceBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "BasaltSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 40
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "LavaSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "LavaSurfaceBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "BasaltSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 100
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "BasaltSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "BasaltSurfaceBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "BasaltSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 40
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "BogSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "BogSurfaceBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "DirtSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "PineForestSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "PineForestSurfaceBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "DirtSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CoralBubbleEmitterSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "CoralBubbleEmitterSurfaceBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "DirtSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 40
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "DirtSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "DirtSurfaceBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "DirtSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "GravelSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "GravelSurfaceBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "GravelSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "DryGrassSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "DryGrassSurfaceBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "DirtSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "LimestoneSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "LimestoneSurfaceBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "GravelSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 30.0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "RedStoneSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "RedStoneSurfaceBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "RedStoneSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 40
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "DarkStoneSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "DarkStoneSurfaceBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "DarkStoneSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 40
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "SnowSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "SnowSurfaceBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "SnowSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "GraniteSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "GraniteSurfaceBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "GraniteSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 80
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "PeatSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "PeatSurfaceBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "PeatSurfaceStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                }
+            ]
+        }
+    ]
+}

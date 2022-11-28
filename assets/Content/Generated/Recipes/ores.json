@@ -1,0 +1,1409 @@
+{
+    "Objects": [
+        {
+            "Class": "BaseRecipeDictionary",
+            "Name": "MaceratorBaseRecipeDictionary",
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperImpureOreGravelStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "CopperImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreDustStaticItem"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreDustStaticItem",
+                                "Probability": 0.5
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 200,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreGravelStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "CopperOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreDustStaticItem"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreDustStaticItem",
+                                "Probability": 0.5
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 200,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronImpureOreGravelStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "IronImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreDustStaticItem"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "IronOreDustStaticItem",
+                                "Probability": 0.5
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 200,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreGravelStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "IronOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreDustStaticItem"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "IronOreDustStaticItem",
+                                "Probability": 0.5
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 200,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumImpureOreGravelStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "UraniumImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumOreDustStaticItem"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "UraniumOreDustStaticItem",
+                                "Probability": 0.5
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 200,
+                    "Tier": 5
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumOreGravelStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "UraniumOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumOreDustStaticItem"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "UraniumOreDustStaticItem",
+                                "Probability": 0.5
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 200,
+                    "Tier": 5
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumImpureOreGravelStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "AluminiumImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOreDustStaticItem"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOreDustStaticItem",
+                                "Probability": 0.5
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 200,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOreGravelStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "AluminiumOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOreDustStaticItem"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOreDustStaticItem",
+                                "Probability": 0.5
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 200,
+                    "Tier": 0
+                }
+            ]
+        },
+        {
+            "Class": "BaseRecipeDictionary",
+            "Name": "SmelterBaseRecipeDictionary",
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "CopperOre",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperIngotStaticItem"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "HeatStaticItem"
+                    },
+                    "Ticks": 400,
+                    "Tier": -1
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreDustStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "CopperOreDust",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperIngotStaticItem"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "HeatStaticItem"
+                    },
+                    "Ticks": 200,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperImpureOreGravelStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "CopperImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperIngotStaticItem"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "HeatStaticItem"
+                    },
+                    "Ticks": 300,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreGravelStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "CopperOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperIngotStaticItem"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "HeatStaticItem"
+                    },
+                    "Ticks": 300,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "IronOre",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronIngotStaticItem"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "HeatStaticItem"
+                    },
+                    "Ticks": 400,
+                    "Tier": -1
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreDustStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "IronOreDust",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronIngotStaticItem"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "HeatStaticItem"
+                    },
+                    "Ticks": 200,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronImpureOreGravelStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "IronImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronIngotStaticItem"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "HeatStaticItem"
+                    },
+                    "Ticks": 300,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreGravelStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "IronOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronIngotStaticItem"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "HeatStaticItem"
+                    },
+                    "Ticks": 300,
+                    "Tier": 0
+                }
+            ]
+        },
+        {
+            "Class": "BaseRecipeDictionary",
+            "Name": "OreWasherBaseRecipeDictionary",
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperImpureOreGravelStaticItem"
+                            },
+                            {
+                                "Count": 250,
+                                "Name": "WaterStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "CopperImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreGravelStaticItem"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "GoldDustStaticItem",
+                                "Probability": 0.1
+                            },
+                            {
+                                "Capacity": 32000,
+                                "Count": 50,
+                                "Name": "OreWaterStaticItem"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 130,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronImpureOreGravelStaticItem"
+                            },
+                            {
+                                "Count": 250,
+                                "Name": "WaterStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "IronImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreGravelStaticItem"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "ChromiumOxideDustStaticItem",
+                                "Probability": 0.1
+                            },
+                            {
+                                "Capacity": 32000,
+                                "Count": 50,
+                                "Name": "OreWaterStaticItem"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 130,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumImpureOreGravelStaticItem"
+                            },
+                            {
+                                "Count": 250,
+                                "Name": "WaterStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "UraniumImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumOreGravelStaticItem"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "Uranium235DustStaticItem",
+                                "Probability": 0.05
+                            },
+                            {
+                                "Capacity": 32000,
+                                "Count": 50,
+                                "Name": "OreWaterStaticItem"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 130,
+                    "Tier": 5
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumImpureOreGravelStaticItem"
+                            },
+                            {
+                                "Count": 250,
+                                "Name": "WaterStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "AluminiumImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOreGravelStaticItem"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "TitaniumOxideDustStaticItem",
+                                "Probability": 0.1
+                            },
+                            {
+                                "Capacity": 32000,
+                                "Count": 50,
+                                "Name": "OreWaterStaticItem"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 10,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 130,
+                    "Tier": 0
+                }
+            ]
+        },
+        {
+            "Class": "BaseRecipeDictionary",
+            "Name": "SeparatorBaseRecipeDictionary",
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreDustStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "CopperOreDust",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperDustStaticItem"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 20,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 100,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreDustStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "IronOreDust",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronDustStaticItem"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 20,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 100,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumOreDustStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "UraniumOreDust",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumDustStaticItem",
+                                "Probability": 0.05
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 20,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 100,
+                    "Tier": 5
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOreDustStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "AluminiumOreDust",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOxideDustStaticItem"
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 20,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 100,
+                    "Tier": 0
+                }
+            ]
+        },
+        {
+            "Class": "BaseRecipeDictionary",
+            "Name": "IndustrialSeparatorBaseRecipeDictionary",
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreDustStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "CopperOreDust",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperDustStaticItem"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "GoldDustStaticItem",
+                                "Probability": 0.1
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 200,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 200,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreDustStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "IronOreDust",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronDustStaticItem"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "ChromiumOxideDustStaticItem",
+                                "Probability": 0.1
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 200,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 200,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumOreDustStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "UraniumOreDust",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumDustStaticItem"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "Uranium235DustStaticItem",
+                                "Probability": 0.05
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 200,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 200,
+                    "Tier": 5
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOreDustStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "AluminiumOreDust",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOxideDustStaticItem"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "TitaniumOxideDustStaticItem",
+                                "Probability": 0.1
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 200,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 200,
+                    "Tier": 0
+                }
+            ]
+        },
+        {
+            "Class": "BaseRecipeDictionary",
+            "Name": "AutomaticHammerBaseRecipeDictionary",
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "CopperOre",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperImpureOreGravelStaticItem"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "CopperImpureOreGravelStaticItem",
+                                "Probability": 0.5
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 12.0,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 225.0,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "IronOre",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronImpureOreGravelStaticItem"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "IronImpureOreGravelStaticItem",
+                                "Probability": 0.5
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 16,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 300,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumOreStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "UraniumOre",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumImpureOreGravelStaticItem"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "UraniumImpureOreGravelStaticItem",
+                                "Probability": 0.5
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 16,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 300,
+                    "Tier": 5
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOreStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "AluminiumOre",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumImpureOreGravelStaticItem"
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumImpureOreGravelStaticItem",
+                                "Probability": 0.5
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 16,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 300,
+                    "Tier": 0
+                }
+            ]
+        },
+        {
+            "Class": "BaseRecipeDictionary",
+            "Name": "ArcSmelterBaseRecipeDictionary",
+            "Recipes": []
+        },
+        {
+            "Class": "BaseRecipeDictionary",
+            "Name": "SifterBaseRecipeDictionary",
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreGravelStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "CopperOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreDustStaticItem",
+                                "Probability": 0.8
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "MalachiteCrystalStaticItem",
+                                "Probability": 0.2
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "MalachiteClusterStaticItem",
+                                "Probability": 0.02
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 200,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 40,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperImpureOreGravelStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "CopperImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreDustStaticItem",
+                                "Probability": 0.8
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "MalachiteCrystalStaticItem",
+                                "Probability": 0.2
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "MalachiteClusterStaticItem",
+                                "Probability": 0.02
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 200,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 40,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreGravelStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "IronOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreDustStaticItem",
+                                "Probability": 0.8
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "CinnabarCrystalStaticItem",
+                                "Probability": 0.2
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "CinnabarClusterStaticItem",
+                                "Probability": 0.02
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 200,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 40,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronImpureOreGravelStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "IronImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreDustStaticItem",
+                                "Probability": 0.8
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "CinnabarCrystalStaticItem",
+                                "Probability": 0.2
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "CinnabarClusterStaticItem",
+                                "Probability": 0.02
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 200,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 40,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumOreGravelStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "UraniumOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "ThoriumDustStaticItem",
+                                "Probability": 0.8
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "UraniniteCrystalStaticItem",
+                                "Probability": 0.2
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "UraniniteClusterStaticItem",
+                                "Probability": 0.02
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 200,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 40,
+                    "Tier": 5
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumImpureOreGravelStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "UraniumImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "ThoriumDustStaticItem",
+                                "Probability": 0.8
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "UraniniteCrystalStaticItem",
+                                "Probability": 0.2
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "UraniniteClusterStaticItem",
+                                "Probability": 0.02
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 200,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 40,
+                    "Tier": 5
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOreGravelStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "AluminiumOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOreDustStaticItem",
+                                "Probability": 0.8
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "RutileCrystalStaticItem",
+                                "Probability": 0.2
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "EmeraldStaticItem",
+                                "Probability": 0.02
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 200,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 40,
+                    "Tier": 0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumImpureOreGravelStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "AluminiumImpureOreGravel",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOreDustStaticItem",
+                                "Probability": 0.8
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "RutileCrystalStaticItem",
+                                "Probability": 0.2
+                            },
+                            {
+                                "Count": 1,
+                                "Name": "EmeraldStaticItem",
+                                "Probability": 0.02
+                            }
+                        ]
+                    },
+                    "ResourceInput": {
+                        "Count": 200,
+                        "Name": "KineticStaticItem"
+                    },
+                    "Ticks": 40,
+                    "Tier": 0
+                }
+            ]
+        },
+        {
+            "Class": "BaseRecipeDictionary",
+            "Name": "MultitoolBaseRecipeDictionary",
+            "Recipes": [
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "CopperOreBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CopperOreStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 30.0
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "IronOreBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "IronOreStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 40
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumOreStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "UraniumOreBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "UraniumOreStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 40
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOreStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "AluminiumOreBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "AluminiumOreStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 40
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CoalOreStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "CoalOreBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "CoalStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                },
+                {
+                    "Input": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "ClayOreStaticItem"
+                            }
+                        ]
+                    },
+                    "Name": "ClayOreBreaking",
+                    "Output": {
+                        "Items": [
+                            {
+                                "Count": 1,
+                                "Name": "ClayStaticItem"
+                            }
+                        ]
+                    },
+                    "Ticks": 20
+                }
+            ],
+            "Ticks": 20,
+            "UsedIn": [
+                {
+                    "Item": "MultitoolStaticItem",
+                    "Tier": 0
+                }
+            ]
+        }
+    ]
+}

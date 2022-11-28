@@ -1,0 +1,991 @@
+{
+    "Objects": [
+        {
+            "Class": "SolidStaticItem",
+            "Color": [
+                0.7843137254901961,
+                0.7843137254901961,
+                0.19607843137254902
+            ],
+            "Image": "T_Sand",
+            "ItemLogic": "BuildingBrushItemLogic",
+            "LabelParts": [
+                [
+                    "SandSurface",
+                    "mapgen_core"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SandSurfaceStaticSurface"
+            },
+            "Materials": [
+                "Materials/Sand"
+            ],
+            "MaxCount": 64,
+            "Mesh": "Models/piece",
+            "Name": "SandSurfaceStaticItem",
+            "Tag": "Misc"
+        },
+        {
+            "Class": "TesselatorMarching",
+            "Material": "Materials/Triplanar/SandMaterial",
+            "Name": "SandSurfaceTesselator"
+        },
+        {
+            "Class": "StaticSurface",
+            "ColorSide": [
+                0.6196078431372549,
+                0.4823529411764706,
+                0.39215686274509803
+            ],
+            "ColorTop": [
+                0.5568627450980392,
+                0.4666666666666667,
+                0.2784313725490196
+            ],
+            "Item": "SandSurfaceStaticItem",
+            "Name": "SandSurfaceStaticSurface",
+            "Tesselator": "SandSurfaceTesselator"
+        },
+        {
+            "Class": "SolidStaticItem",
+            "Color": [
+                0.7843137254901961,
+                0.7843137254901961,
+                0.19607843137254902
+            ],
+            "Image": "T_Sandstone",
+            "ItemLogic": "BuildingBrushItemLogic",
+            "LabelParts": [
+                [
+                    "SandstoneSurface",
+                    "mapgen_core"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SandstoneSurfaceStaticSurface"
+            },
+            "Materials": [
+                "Materials/Sand"
+            ],
+            "MaxCount": 64,
+            "Mesh": "Models/piece",
+            "Name": "SandstoneSurfaceStaticItem",
+            "Tag": "Misc"
+        },
+        {
+            "Class": "TesselatorMarching",
+            "Material": "Materials/Triplanar/SandstoneMaterial",
+            "Name": "SandstoneSurfaceTesselator"
+        },
+        {
+            "Class": "StaticSurface",
+            "ColorSide": [
+                0.6196078431372549,
+                0.4823529411764706,
+                0.39215686274509803
+            ],
+            "ColorTop": [
+                0.8745098039215686,
+                0.8666666666666667,
+                0.7529411764705882
+            ],
+            "Item": "SandstoneSurfaceStaticItem",
+            "Name": "SandstoneSurfaceStaticSurface",
+            "Tesselator": "SandstoneSurfaceTesselator"
+        },
+        {
+            "Class": "SolidStaticItem",
+            "Color": [
+                0.5019607843137255,
+                0.5019607843137255,
+                0.5019607843137255
+            ],
+            "Image": "T_Stone",
+            "ItemLogic": "BuildingBrushItemLogic",
+            "LabelParts": [
+                [
+                    "StoneSurface",
+                    "mapgen_core"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "StoneSurfaceStaticSurface"
+            },
+            "Materials": [
+                "Materials/Stone"
+            ],
+            "MaxCount": 64,
+            "Mesh": "Models/piece",
+            "Name": "StoneSurfaceStaticItem",
+            "Tag": "Misc"
+        },
+        {
+            "Class": "TesselatorMarching",
+            "Material": "Materials/Triplanar/StoneMaterial",
+            "Name": "StoneSurfaceTesselator"
+        },
+        {
+            "Class": "StaticSurface",
+            "ColorSide": [
+                0.43529411764705883,
+                0.41568627450980394,
+                0.3333333333333333
+            ],
+            "ColorTop": [
+                0.43529411764705883,
+                0.41568627450980394,
+                0.3333333333333333
+            ],
+            "Item": "StoneSurfaceStaticItem",
+            "Name": "StoneSurfaceStaticSurface",
+            "Tesselator": "StoneSurfaceTesselator"
+        },
+        {
+            "Class": "SolidStaticItem",
+            "Color": [
+                0.7843137254901961,
+                0.7843137254901961,
+                0.19607843137254902
+            ],
+            "Image": "T_DesertSand",
+            "ItemLogic": "BuildingBrushItemLogic",
+            "LabelParts": [
+                [
+                    "DesertSandSurface",
+                    "mapgen_core"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "DesertSandSurfaceStaticSurface"
+            },
+            "Materials": [
+                "Materials/Sand"
+            ],
+            "MaxCount": 64,
+            "Mesh": "Models/piece",
+            "Name": "DesertSandSurfaceStaticItem",
+            "Tag": "Misc"
+        },
+        {
+            "Class": "TesselatorMarching",
+            "Material": "Materials/Triplanar/DesertSandMaterial",
+            "Name": "DesertSandSurfaceTesselator"
+        },
+        {
+            "Class": "StaticSurface",
+            "ColorSide": [
+                0.7058823529411765,
+                0.5215686274509804,
+                0.42745098039215684
+            ],
+            "ColorTop": [
+                0.6862745098039216,
+                0.5803921568627451,
+                0.3411764705882353
+            ],
+            "Item": "DesertSandSurfaceStaticItem",
+            "Name": "DesertSandSurfaceStaticSurface",
+            "Tesselator": "DesertSandSurfaceTesselator"
+        },
+        {
+            "Class": "SolidStaticItem",
+            "Color": [
+                0.4,
+                0.2,
+                0.0
+            ],
+            "Image": "T_Grass",
+            "ItemLogic": "BuildingBrushItemLogic",
+            "LabelParts": [
+                [
+                    "GrassSurface",
+                    "mapgen_core"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "GrassSurfaceStaticSurface"
+            },
+            "Materials": [
+                "Materials/Dirt"
+            ],
+            "MaxCount": 64,
+            "Mesh": "Models/piece",
+            "Name": "GrassSurfaceStaticItem",
+            "Tag": "Misc"
+        },
+        {
+            "Class": "TesselatorMarching",
+            "Material": "Materials/Triplanar/GrassMaterial",
+            "Name": "GrassSurfaceTesselator"
+        },
+        {
+            "Class": "StaticSurface",
+            "ColorSide": [
+                0.10509803921568628,
+                0.08,
+                0.05019607843137255
+            ],
+            "ColorTop": [
+                0.06666666666666667,
+                0.0784313725490196,
+                0.022745098039215685
+            ],
+            "Item": "GrassSurfaceStaticItem",
+            "Name": "GrassSurfaceStaticSurface",
+            "Tesselator": "GrassSurfaceTesselator"
+        },
+        {
+            "Class": "SolidStaticItem",
+            "Color": [
+                0.4,
+                0.2,
+                0.0
+            ],
+            "Image": "T_BogFog",
+            "ItemLogic": "BuildingBrushItemLogic",
+            "LabelParts": [
+                [
+                    "BogFogSurface",
+                    "mapgen_core"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "BogFogSurfaceStaticSurface"
+            },
+            "Materials": [
+                "Materials/Dirt"
+            ],
+            "MaxCount": 64,
+            "Mesh": "Models/piece",
+            "Name": "BogFogSurfaceStaticItem",
+            "Tag": "Misc"
+        },
+        {
+            "Class": "TesselatorMarching",
+            "Material": "Materials/Triplanar/BogFogMaterial",
+            "Name": "BogFogSurfaceTesselator"
+        },
+        {
+            "Class": "StaticSurface",
+            "ColorSide": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "ColorTop": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "Item": "BogFogSurfaceStaticItem",
+            "Name": "BogFogSurfaceStaticSurface",
+            "Tesselator": "BogFogSurfaceTesselator"
+        },
+        {
+            "Class": "SolidStaticItem",
+            "Color": [
+                0.5019607843137255,
+                0.5019607843137255,
+                0.5019607843137255
+            ],
+            "Image": "T_LavaSmoke",
+            "ItemLogic": "BuildingBrushItemLogic",
+            "LabelParts": [
+                [
+                    "LavaSmokeSurface",
+                    "mapgen_core"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "LavaSmokeSurfaceStaticSurface"
+            },
+            "Materials": [
+                "Materials/Basalt"
+            ],
+            "MaxCount": 64,
+            "Mesh": "Models/piece",
+            "Name": "LavaSmokeSurfaceStaticItem",
+            "Tag": "Misc"
+        },
+        {
+            "Class": "TesselatorMarching",
+            "Material": "Materials/Triplanar/LavaSmokeMaterial",
+            "Name": "LavaSmokeSurfaceTesselator"
+        },
+        {
+            "Class": "StaticSurface",
+            "ColorSide": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "ColorTop": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "Item": "LavaSmokeSurfaceStaticItem",
+            "Name": "LavaSmokeSurfaceStaticSurface",
+            "Tesselator": "LavaSmokeSurfaceTesselator"
+        },
+        {
+            "Class": "SolidStaticItem",
+            "Color": [
+                0.4980392156862745,
+                0.4980392156862745,
+                0.4980392156862745
+            ],
+            "Image": "T_Lava",
+            "ItemLogic": "BuildingBrushItemLogic",
+            "LabelParts": [
+                [
+                    "LavaSurface",
+                    "mapgen_core"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "LavaSurfaceStaticSurface"
+            },
+            "Materials": [
+                "Materials/Basalt"
+            ],
+            "MaxCount": 64,
+            "Mesh": "Models/piece",
+            "Name": "LavaSurfaceStaticItem",
+            "Tag": "Misc"
+        },
+        {
+            "Class": "TesselatorMarching",
+            "Material": "Materials/Triplanar/LavaMaterial",
+            "Name": "LavaSurfaceTesselator"
+        },
+        {
+            "Class": "StaticSurface",
+            "ColorSide": [
+                0.40784313725490196,
+                0.40784313725490196,
+                0.40784313725490196
+            ],
+            "ColorTop": [
+                0.40784313725490196,
+                0.40784313725490196,
+                0.40784313725490196
+            ],
+            "Item": "LavaSurfaceStaticItem",
+            "Name": "LavaSurfaceStaticSurface",
+            "Tesselator": "LavaSurfaceTesselator"
+        },
+        {
+            "Class": "SolidStaticItem",
+            "Color": [
+                0.5019607843137255,
+                0.5019607843137255,
+                0.5019607843137255
+            ],
+            "Image": "T_Basalt",
+            "ItemLogic": "BuildingBrushItemLogic",
+            "LabelParts": [
+                [
+                    "BasaltSurface",
+                    "mapgen_core"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "BasaltSurfaceStaticSurface"
+            },
+            "Materials": [
+                "Materials/Basalt"
+            ],
+            "MaxCount": 64,
+            "Mesh": "Models/piece",
+            "Name": "BasaltSurfaceStaticItem",
+            "Tag": "Misc"
+        },
+        {
+            "Class": "TesselatorMarching",
+            "Material": "Materials/Triplanar/BasaltMaterial",
+            "Name": "BasaltSurfaceTesselator"
+        },
+        {
+            "Class": "StaticSurface",
+            "ColorSide": [
+                0.4117647058823529,
+                0.4117647058823529,
+                0.4117647058823529
+            ],
+            "ColorTop": [
+                0.4117647058823529,
+                0.4117647058823529,
+                0.4117647058823529
+            ],
+            "Item": "BasaltSurfaceStaticItem",
+            "Name": "BasaltSurfaceStaticSurface",
+            "Tesselator": "BasaltSurfaceTesselator"
+        },
+        {
+            "Class": "SolidStaticItem",
+            "Color": [
+                0.4,
+                0.2,
+                0.0
+            ],
+            "Image": "T_Bog",
+            "ItemLogic": "BuildingBrushItemLogic",
+            "LabelParts": [
+                [
+                    "BogSurface",
+                    "mapgen_core"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "BogSurfaceStaticSurface"
+            },
+            "Materials": [
+                "Materials/Dirt"
+            ],
+            "MaxCount": 64,
+            "Mesh": "Models/piece",
+            "Name": "BogSurfaceStaticItem",
+            "Tag": "Misc"
+        },
+        {
+            "Class": "TesselatorMarching",
+            "Material": "Materials/Triplanar/BogMaterial",
+            "Name": "BogSurfaceTesselator"
+        },
+        {
+            "Class": "StaticSurface",
+            "ColorSide": [
+                0.10509803921568628,
+                0.08,
+                0.05019607843137255
+            ],
+            "ColorTop": [
+                0.08549019607843136,
+                0.08470588235294117,
+                0.01568627450980392
+            ],
+            "Item": "BogSurfaceStaticItem",
+            "Name": "BogSurfaceStaticSurface",
+            "Tesselator": "BogSurfaceTesselator"
+        },
+        {
+            "Class": "SolidStaticItem",
+            "Color": [
+                0.4,
+                0.2,
+                0.0
+            ],
+            "Image": "T_PineForest",
+            "ItemLogic": "BuildingBrushItemLogic",
+            "LabelParts": [
+                [
+                    "PineForestSurface",
+                    "mapgen_core"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "PineForestSurfaceStaticSurface"
+            },
+            "Materials": [
+                "Materials/Dirt"
+            ],
+            "MaxCount": 64,
+            "Mesh": "Models/piece",
+            "Name": "PineForestSurfaceStaticItem",
+            "Tag": "Misc"
+        },
+        {
+            "Class": "TesselatorMarching",
+            "Material": "Materials/Triplanar/PineForestMaterial",
+            "Name": "PineForestSurfaceTesselator"
+        },
+        {
+            "Class": "StaticSurface",
+            "ColorSide": [
+                0.3411764705882353,
+                0.25882352941176473,
+                0.14901960784313725
+            ],
+            "ColorTop": [
+                0.3411764705882353,
+                0.25882352941176473,
+                0.14901960784313725
+            ],
+            "Item": "PineForestSurfaceStaticItem",
+            "Name": "PineForestSurfaceStaticSurface",
+            "Tesselator": "PineForestSurfaceTesselator"
+        },
+        {
+            "Class": "SolidStaticItem",
+            "Color": [
+                0.5019607843137255,
+                0.5019607843137255,
+                0.5019607843137255
+            ],
+            "Image": "T_CoralBubbleEmitter",
+            "ItemLogic": "BuildingBrushItemLogic",
+            "LabelParts": [
+                [
+                    "CoralBubbleEmitterSurface",
+                    "mapgen_core"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "CoralBubbleEmitterSurfaceStaticSurface"
+            },
+            "Materials": [
+                "Materials/Dirt"
+            ],
+            "MaxCount": 64,
+            "Mesh": "Models/piece",
+            "Name": "CoralBubbleEmitterSurfaceStaticItem",
+            "Tag": "Misc"
+        },
+        {
+            "Class": "TesselatorMarching",
+            "Material": "Materials/Triplanar/CoralBubbleEmitterMaterial",
+            "Name": "CoralBubbleEmitterSurfaceTesselator"
+        },
+        {
+            "Class": "StaticSurface",
+            "ColorSide": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "ColorTop": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "Item": "CoralBubbleEmitterSurfaceStaticItem",
+            "Name": "CoralBubbleEmitterSurfaceStaticSurface",
+            "Tesselator": "CoralBubbleEmitterSurfaceTesselator"
+        },
+        {
+            "Class": "SolidStaticItem",
+            "Color": [
+                0.4,
+                0.2,
+                0.0
+            ],
+            "Image": "T_Dirt",
+            "ItemLogic": "BuildingBrushItemLogic",
+            "LabelParts": [
+                [
+                    "DirtSurface",
+                    "mapgen_core"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "DirtSurfaceStaticSurface"
+            },
+            "Materials": [
+                "Materials/Dirt"
+            ],
+            "MaxCount": 64,
+            "Mesh": "Models/piece",
+            "Name": "DirtSurfaceStaticItem",
+            "Tag": "Misc"
+        },
+        {
+            "Class": "TesselatorMarching",
+            "Material": "Materials/Triplanar/DirtMaterial",
+            "Name": "DirtSurfaceTesselator"
+        },
+        {
+            "Class": "StaticSurface",
+            "ColorSide": [
+                0.5254901960784314,
+                0.4,
+                0.25098039215686274
+            ],
+            "ColorTop": [
+                0.5254901960784314,
+                0.4,
+                0.25098039215686274
+            ],
+            "Item": "DirtSurfaceStaticItem",
+            "Name": "DirtSurfaceStaticSurface",
+            "Tesselator": "DirtSurfaceTesselator"
+        },
+        {
+            "Class": "SolidStaticItem",
+            "Color": [
+                0.7843137254901961,
+                0.7843137254901961,
+                0.19607843137254902
+            ],
+            "Image": "T_Gravel",
+            "ItemLogic": "BuildingBrushItemLogic",
+            "LabelParts": [
+                [
+                    "GravelSurface",
+                    "mapgen_core"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "GravelSurfaceStaticSurface"
+            },
+            "Materials": [
+                "Materials/Gravel"
+            ],
+            "MaxCount": 64,
+            "Mesh": "Models/piece",
+            "Name": "GravelSurfaceStaticItem",
+            "Tag": "Misc"
+        },
+        {
+            "Class": "TesselatorMarching",
+            "Material": "Materials/Triplanar/GravelMaterial",
+            "Name": "GravelSurfaceTesselator"
+        },
+        {
+            "Class": "StaticSurface",
+            "ColorSide": [
+                0.5529411764705883,
+                0.4627450980392157,
+                0.27450980392156865
+            ],
+            "ColorTop": [
+                0.5529411764705883,
+                0.4627450980392157,
+                0.27450980392156865
+            ],
+            "Item": "GravelSurfaceStaticItem",
+            "Name": "GravelSurfaceStaticSurface",
+            "Tesselator": "GravelSurfaceTesselator"
+        },
+        {
+            "Class": "SolidStaticItem",
+            "Color": [
+                0.4,
+                0.2,
+                0.0
+            ],
+            "Image": "T_DryGrass",
+            "ItemLogic": "BuildingBrushItemLogic",
+            "LabelParts": [
+                [
+                    "DryGrassSurface",
+                    "mapgen_core"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "DryGrassSurfaceStaticSurface"
+            },
+            "Materials": [
+                "Materials/Dirt"
+            ],
+            "MaxCount": 64,
+            "Mesh": "Models/piece",
+            "Name": "DryGrassSurfaceStaticItem",
+            "Tag": "Misc"
+        },
+        {
+            "Class": "TesselatorMarching",
+            "Material": "Materials/Triplanar/DryGrassMaterial",
+            "Name": "DryGrassSurfaceTesselator"
+        },
+        {
+            "Class": "StaticSurface",
+            "ColorSide": [
+                0.5254901960784314,
+                0.4,
+                0.2549019607843137
+            ],
+            "ColorTop": [
+                0.3333333333333333,
+                0.19607843137254902,
+                0.11372549019607843
+            ],
+            "Item": "DryGrassSurfaceStaticItem",
+            "Name": "DryGrassSurfaceStaticSurface",
+            "Tesselator": "DryGrassSurfaceTesselator"
+        },
+        {
+            "Class": "SolidStaticItem",
+            "Color": [
+                0.6313725490196078,
+                0.611764705882353,
+                0.5294117647058824
+            ],
+            "Image": "T_Limestone",
+            "ItemLogic": "BuildingBrushItemLogic",
+            "LabelParts": [
+                [
+                    "LimestoneSurface",
+                    "mapgen_core"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "LimestoneSurfaceStaticSurface"
+            },
+            "Materials": [
+                "Materials/Gravel"
+            ],
+            "MaxCount": 64,
+            "Mesh": "Models/piece",
+            "Name": "LimestoneSurfaceStaticItem",
+            "Tag": "Misc"
+        },
+        {
+            "Class": "TesselatorMarching",
+            "Material": "Materials/Triplanar/LimestoneMaterial",
+            "Name": "LimestoneSurfaceTesselator"
+        },
+        {
+            "Class": "StaticSurface",
+            "ColorSide": [
+                0.6313725490196078,
+                0.611764705882353,
+                0.5294117647058824
+            ],
+            "ColorTop": [
+                0.6313725490196078,
+                0.611764705882353,
+                0.5294117647058824
+            ],
+            "Item": "LimestoneSurfaceStaticItem",
+            "Name": "LimestoneSurfaceStaticSurface",
+            "Tesselator": "LimestoneSurfaceTesselator"
+        },
+        {
+            "Class": "SolidStaticItem",
+            "Color": [
+                0.3568627450980392,
+                0.2196078431372549,
+                0.13725490196078433
+            ],
+            "Image": "T_RedStone",
+            "ItemLogic": "BuildingBrushItemLogic",
+            "LabelParts": [
+                [
+                    "RedStoneSurface",
+                    "mapgen_core"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "RedStoneSurfaceStaticSurface"
+            },
+            "Materials": [
+                "Materials/RedStone"
+            ],
+            "MaxCount": 64,
+            "Mesh": "Models/piece",
+            "Name": "RedStoneSurfaceStaticItem",
+            "Tag": "Misc"
+        },
+        {
+            "Class": "TesselatorMarching",
+            "Material": "Materials/Triplanar/RedStoneMaterial",
+            "Name": "RedStoneSurfaceTesselator"
+        },
+        {
+            "Class": "StaticSurface",
+            "ColorSide": [
+                0.3568627450980392,
+                0.2196078431372549,
+                0.13725490196078433
+            ],
+            "ColorTop": [
+                0.3568627450980392,
+                0.2196078431372549,
+                0.13725490196078433
+            ],
+            "Item": "RedStoneSurfaceStaticItem",
+            "Name": "RedStoneSurfaceStaticSurface",
+            "Tesselator": "RedStoneSurfaceTesselator"
+        },
+        {
+            "Class": "SolidStaticItem",
+            "Color": [
+                0.047058823529411764,
+                0.03137254901960784,
+                0.047058823529411764
+            ],
+            "Image": "T_DarkStone",
+            "ItemLogic": "BuildingBrushItemLogic",
+            "LabelParts": [
+                [
+                    "DarkStoneSurface",
+                    "mapgen_core"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "DarkStoneSurfaceStaticSurface"
+            },
+            "Materials": [
+                "Materials/DarkStone"
+            ],
+            "MaxCount": 64,
+            "Mesh": "Models/piece",
+            "Name": "DarkStoneSurfaceStaticItem",
+            "Tag": "Misc"
+        },
+        {
+            "Class": "TesselatorMarching",
+            "Material": "Materials/Triplanar/DarkStoneMaterial",
+            "Name": "DarkStoneSurfaceTesselator"
+        },
+        {
+            "Class": "StaticSurface",
+            "ColorSide": [
+                0.047058823529411764,
+                0.03137254901960784,
+                0.047058823529411764
+            ],
+            "ColorTop": [
+                0.047058823529411764,
+                0.03137254901960784,
+                0.047058823529411764
+            ],
+            "Item": "DarkStoneSurfaceStaticItem",
+            "Name": "DarkStoneSurfaceStaticSurface",
+            "Tesselator": "DarkStoneSurfaceTesselator"
+        },
+        {
+            "Class": "SolidStaticItem",
+            "Color": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "Image": "T_Snow",
+            "ItemLogic": "BuildingBrushItemLogic",
+            "LabelParts": [
+                [
+                    "SnowSurface",
+                    "mapgen_core"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "SnowSurfaceStaticSurface"
+            },
+            "Materials": [
+                "Materials/Snow"
+            ],
+            "MaxCount": 64,
+            "Mesh": "Models/piece",
+            "Name": "SnowSurfaceStaticItem",
+            "Tag": "Misc"
+        },
+        {
+            "Class": "TesselatorMarching",
+            "Material": "Materials/Triplanar/SnowMaterial",
+            "Name": "SnowSurfaceTesselator"
+        },
+        {
+            "Class": "StaticSurface",
+            "ColorSide": [
+                0.5215686274509804,
+                0.396078431372549,
+                0.25098039215686274
+            ],
+            "ColorTop": [
+                0.9921568627450981,
+                0.9882352941176471,
+                0.996078431372549
+            ],
+            "Item": "SnowSurfaceStaticItem",
+            "Name": "SnowSurfaceStaticSurface",
+            "Tesselator": "SnowSurfaceTesselator"
+        },
+        {
+            "Class": "SolidStaticItem",
+            "Color": [
+                0.5019607843137255,
+                0.5019607843137255,
+                0.5019607843137255
+            ],
+            "Image": "T_Granite",
+            "ItemLogic": "BuildingBrushItemLogic",
+            "LabelParts": [
+                [
+                    "GraniteSurface",
+                    "mapgen_core"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "GraniteSurfaceStaticSurface"
+            },
+            "Materials": [
+                "Materials/Granite"
+            ],
+            "MaxCount": 64,
+            "Mesh": "Models/piece",
+            "Name": "GraniteSurfaceStaticItem",
+            "Tag": "Misc"
+        },
+        {
+            "Class": "TesselatorMarching",
+            "Material": "Materials/Triplanar/GraniteMaterial",
+            "Name": "GraniteSurfaceTesselator"
+        },
+        {
+            "Class": "StaticSurface",
+            "ColorSide": [
+                0.43529411764705883,
+                0.41568627450980394,
+                0.3333333333333333
+            ],
+            "ColorTop": [
+                0.43529411764705883,
+                0.41568627450980394,
+                0.3333333333333333
+            ],
+            "Item": "GraniteSurfaceStaticItem",
+            "Name": "GraniteSurfaceStaticSurface",
+            "Tesselator": "GraniteSurfaceTesselator"
+        },
+        {
+            "Class": "SolidStaticItem",
+            "Color": [
+                0.4,
+                0.2,
+                0.0
+            ],
+            "Image": "T_Peat",
+            "ItemLogic": "BuildingBrushItemLogic",
+            "LabelParts": [
+                [
+                    "PeatSurface",
+                    "mapgen_core"
+                ]
+            ],
+            "LogicJson": {
+                "StaticBlock": "PeatSurfaceStaticSurface"
+            },
+            "Materials": [
+                "Materials/Peat"
+            ],
+            "MaxCount": 64,
+            "Mesh": "Models/piece",
+            "Name": "PeatSurfaceStaticItem",
+            "Tag": "Misc"
+        },
+        {
+            "Class": "TesselatorMarching",
+            "Material": "Materials/Triplanar/PeatMaterial",
+            "Name": "PeatSurfaceTesselator"
+        },
+        {
+            "Class": "StaticSurface",
+            "ColorSide": [
+                0.07507002801120448,
+                0.05714285714285715,
+                0.035854341736694675
+            ],
+            "ColorTop": [
+                0.06106442577030812,
+                0.06050420168067227,
+                0.011204481792717087
+            ],
+            "Item": "PeatSurfaceStaticItem",
+            "Name": "PeatSurfaceStaticSurface",
+            "Tesselator": "PeatSurfaceTesselator"
+        }
+    ]
+}
